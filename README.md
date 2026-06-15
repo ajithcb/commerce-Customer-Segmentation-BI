@@ -5,18 +5,6 @@ This project transforms raw transactional data from an online retail business in
 
 ---
 
-## 🖼️ Dashboard Preview & Visualizations
-
-### 📈 Executive Revenue & Performance Dashboard
-> *Replace the placeholder image link below with a screenshot of your main Power BI dashboard page.*
-![Executive Dashboard Performance](YOUR_IMAGE_LINK_HERE_1)
-
-### 👥 Customer Cohort Metrics
-> *Replace the placeholder image link below with a screenshot of your specific customer segmentation page.*
-![Customer Segmentation View](YOUR_IMAGE_LINK_HERE_2)
-
----
-
 ## 🛠️ Tech Stack & Tools Used
 * **Data Engineering & Cleaning**: Python (Pandas, Datetime) via Google Colab
 * **Segmentation Framework**: RFM Modeling (Recency, Frequency, Monetary value)
